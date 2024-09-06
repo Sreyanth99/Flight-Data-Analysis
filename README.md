@@ -54,14 +54,17 @@ Here in the below graph, we can see that Texas is the state with the most delay 
 
 Here below is the 3D subplot graph showing the arrival and departure delay for each carrier in each US
 state for Dec 2009.
+
 ![image](https://github.com/Sreyanth99/Flight-Data-Analysis/assets/6060592/4cf44265-01eb-43d9-b3e9-250227268bfb)
 
 From the graph, we can see that most arrival delays by a carrier in a state were by AA in Texas of
 158907 minutes in Dec 2009.
+
 ![image](https://github.com/Sreyanth99/Flight-Data-Analysis/assets/6060592/aba7d688-9b85-4199-a014-2e8fb23925e5)
 
 From the graph, we can see that most departure delays by a carrier in a state were by WN in California
 state of 260419 minutes in Dec 2009.
+
 ![image](https://github.com/Sreyanth99/Flight-Data-Analysis/assets/6060592/5847b1a8-2abb-4d8c-b1e9-de1933152b4e)
 
 What are the days and date preferences of the travellers?
@@ -73,7 +76,9 @@ There 86481 passengers preferred travelling on Wednesday which is the most for a
 whereas 56567 passengers preferred Saturday which is the minimum for a day of the week.
 For the date of the month, 21 Dec 2009 has the most travel of 17951 passengers on a day whereas the
 minimum was for 19 Dec 2009, 13383 passengers travelled on that day.
+
 ![image](https://github.com/Sreyanth99/Flight-Data-Analysis/assets/6060592/58a1d95b-9c60-4472-be2c-36accf8d1bfd)
+
 ![image](https://github.com/Sreyanth99/Flight-Data-Analysis/assets/6060592/69d2d915-c62f-461c-a271-ebc5c125eae5)
 
 
